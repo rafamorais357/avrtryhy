@@ -1,0 +1,12 @@
+SITE EXPORTADO PELO LINKAŚ
+
+Conteúdo:
+- index.html: página principal
+- imagens/: fotos utilizadas no site
+
+PUBLICAÇÃO NO GITHUB PAGES
+1. Envie o index.html e a pasta imagens para o mesmo repositório.
+2. Não altere a estrutura das pastas.
+3. Ative o GitHub Pages nas configurações do repositório.
+
+O site também pode ser publicado no Netlify, Cloudflare Pages ou outra hospedagem estática.
